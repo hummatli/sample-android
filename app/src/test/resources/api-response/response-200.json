@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Buzz",
+    "description": "A light, crisp and bitter",
+    "image_url": "https://images.punkapi.com/v2/keg.png",
+    "abv": 4.5,
+    "ingredients": {
+      "malt": [
+        {
+          "name": "Maris Otter Extra Pale",
+          "amount": {
+            "value": 3.3,
+            "unit": "kilograms"
+          }
+        }
+      ],
+      "hops": [
+        {
+          "name": "Fuggles",
+          "amount": {
+            "value": 25,
+            "unit": "grams"
+          },
+          "add": "start",
+          "attribute": "bitter"
+        }
+      ]
+    },
+    "food_pairing": [
+      "Spicy chicken tikka masala",
+      "Grilled chicken quesadilla"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Buzz_2",
+    "description": "A light, crisp and bitter",
+    "image_url": "https://images.punkapi.com/v2/keg.png",
+    "abv": 4.5,
+    "ingredients": {
+      "malt": [
+        {
+          "name": "Maris Otter Extra Pale",
+          "amount": {
+            "value": 3.3,
+            "unit": "kilograms"
+          }
+        }
+      ],
+      "hops": [
+        {
+          "name": "Fuggles",
+          "amount": {
+            "value": 25,
+            "unit": "grams"
+          },
+          "add": "start",
+          "attribute": "bitter"
+        }
+      ]
+    },
+    "food_pairing": [
+      "Spicy chicken tikka masala",
+      "Grilled chicken quesadilla"
+    ]
+  }
+]

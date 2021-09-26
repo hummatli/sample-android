@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HiMumSaidDad App</string>
+    <string name="splash_title">HiMumSaidDad App</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="generic_error_unknown">Unknown error</string>
+    <string name="details">Details</string>
+    <string name="beers">Beers</string>
+    <string name="general">General</string>
+    <string name="malt">Malt</string>
+    <string name="malt_item">%s - %s %s</string>
+    <string name="hop_item">%s - %s %s (%s, %s)</string>
+    <string name="hops">Hops</string>
+    <string name="food_pairing">Food pairings</string>
+    <string name="abv">ABV: %s</string>
+    <string name="favorite">Favorite</string>
+</resources>
