@@ -1,7 +1,7 @@
-# HiMumSaidDad-app-android challenge
+# Sample Android App
 
 #### About
-Sample application for HiMumSaidDad's challenge. The app uses the simple API, reads beers list and can show them in detail.
+The app uses the simple API, reads beers list and can show them in detail.
 
 #### Structure
 The application is built with an MVVM pattern and uses the latest Android technology.
